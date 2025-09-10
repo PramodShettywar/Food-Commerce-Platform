@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+.mkv
+.mp4
+.avi
+.env
